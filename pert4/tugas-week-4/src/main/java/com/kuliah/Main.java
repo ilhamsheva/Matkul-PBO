@@ -28,7 +28,7 @@ public class Main {
             switch (pilihan) {
                 case 1:
                     // Cek Bilangan Prima
-                    System.out.print("Masukkjavaan angka: ");
+                    System.out.print("Masukkan angka: ");
                     int angka = scanner.nextInt();
                     if (primeNumber.isPrime(angka)) {
                         System.out.println(angka + " adalah bilangan prima.");
