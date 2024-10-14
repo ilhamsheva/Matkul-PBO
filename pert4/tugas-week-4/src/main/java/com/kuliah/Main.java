@@ -18,9 +18,9 @@ public class Main {
         int pilihan;
         do {
             System.out.println("\n--- Menu ---");
-            System.out.println("1. Cek Bilangan Prima");
-            System.out.println("2. Hitungan Mundur");
-            System.out.println("3. Status Kehadiran");
+            System.out.println("1. Cek Bilangan Prima (IF ELSE)");
+            System.out.println("2. Hitungan Mundur (WHILE)");
+            System.out.println("3. Status Kehadiran (SWITCH CASE)");
             System.out.println("4. Keluar");
             System.out.print("Pilih menu: ");
             pilihan = scanner.nextInt();
